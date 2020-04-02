@@ -1,0 +1,11 @@
+@import url('./_color/link_color_blue.css');
+@import url('./_color/link_color_gray.css');
+
+.link {
+    text-decoration: none;
+    transition: color ease-in-out .5s;
+}
+
+.link:hover {
+    color: #5E81FE;
+}

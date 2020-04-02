@@ -1,0 +1,21 @@
+.menu__button {
+    width: 113px;
+    height: 43px;
+    background-color: #D2E1FF;
+    border-radius: 2px;
+    border: none;
+    text-align: center;
+    color: #3A79FF;
+    transition: background-color ease-in-out .5s, color ease-in-out .5s;
+}
+
+.menu__button:hover {
+    background-color: #5E81FE;
+    color: white;
+}
+
+@media screen and (max-width: 768px) {
+    .menu__button  {
+        margin-top: 10px;
+    }
+}
