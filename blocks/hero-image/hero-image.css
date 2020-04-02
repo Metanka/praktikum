@@ -1,0 +1,19 @@
+@import url(./__bg/hero-image__bg.css);
+@import url(./__play-button/hero-image__play-button.css);
+@import url(./__text-container/hero-image__text-container.css);
+@import url(./__title/hero-image__title.css);
+@import url(./__subtitle/hero-image__subtitle.css);
+@import url(./__text/hero-image__text.css);
+@import url(./__stat/hero-image__stat.css);
+@import url(./__slider/hero-image__slider.css);
+
+.hero-image {
+  max-width: 1440px;
+  width: 100%;
+  height: calc(100vw / 2.526);
+  max-height: 570px;
+  background-color: rgba(239, 243, 255, 0.568);
+  overflow: hidden;
+  background-image: url(../../images/clouds.png);
+  background-repeat: no-repeat;
+}

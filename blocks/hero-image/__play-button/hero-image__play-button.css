@@ -1,0 +1,7 @@
+.hero-image__play-button {
+  width: 120px;
+  height: 120px;
+  margin: auto;
+  background-size: contain;
+  border-radius: 50%;
+}
