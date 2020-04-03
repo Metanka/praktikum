@@ -1,0 +1,26 @@
+.hero-image__play-button {
+  width: 120px;
+  height: 120px;
+  margin: auto;
+  background-size: contain;
+  border-radius: 50%;
+}
+
+@media screen and (max-width: 826px)  {
+  .hero-image__play-button {
+    width: 90px;
+    height: 90px;
+  }
+}
+
+@media screen and (max-width: 660px)  {
+  .hero-image__play-button {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 660px)  {
+  .hero-image__play-button {
+    display: none;
+  }
+}

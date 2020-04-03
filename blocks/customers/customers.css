@@ -1,0 +1,11 @@
+.customers {
+  padding: 61px 0 61px 0;
+  max-width: 1440px;
+  margin: auto;
+}
+
+@media screen and (max-width: 690px) {
+  .customers {
+    padding: 20px 0 20px 0;
+  }
+}
