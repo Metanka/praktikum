@@ -1,0 +1,10 @@
+.features__text {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #ADB3CB;
+    margin-left: 16px;
+    margin-right: 16px;
+}

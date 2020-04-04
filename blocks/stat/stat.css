@@ -1,0 +1,33 @@
+@import url('./__image/stat__image.css');
+@import url('./__number/stat__number.css');
+@import url('./__texts/stat__texts.css');
+@import url('./__text/stat__text.css');
+
+.stat {
+    width: 720px;
+    margin: 0;
+    padding-right: 92px;
+    color: #ffffff;
+    background: linear-gradient(208.93deg, #6888FF 12.77%, #5E80FF 73.11%);
+    text-align: right;
+
+    border: 1px solid red;
+}
+
+.stat:last-of-type {
+    color: #5E80FF;
+    background: linear-gradient(130.53deg, #E9EFFF 41.56%, #E0E9FF 81.53%);
+    text-align: left;
+    padding-right: 0;
+    padding-left: 92px;  
+}
+
+@media screen and (min-width: 320px) and (max-width: 450px) {
+    .stat {
+        padding-right: 30px;
+    }
+
+    .stat:last-of-type {
+        padding-left: 30px;
+    }
+}

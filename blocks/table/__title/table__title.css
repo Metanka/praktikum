@@ -1,0 +1,12 @@
+.table__title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+    color: #4074f8;
+    margin: 0;
+    margin-top: 33px;
+
+    border: 1px solid red;
+}
