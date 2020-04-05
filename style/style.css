@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('/blocks/page/page.css');
 @import url('/blocks/header/header.css');
 @import url("../blocks/hero-image/hero-image.css");
@@ -9,3 +10,11 @@
 @import url('../blocks/logos/logos.css');
 @import url('../blocks/customers/customers.css');
 >>>>>>> bde535614682eb2e2f227224a88a75da102d2bbe
+=======
+@import url('../vendor/normalize.css');
+@import url('../blocks/page/page.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/menu/menu.css');
+@import url('../blocks/link/link.css');
+@import url('../blocks/footer/footer.css');
+>>>>>>> 2e1f1990d3d9d9b6c8d42e4e00aa78f278ec12a1

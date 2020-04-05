@@ -1,0 +1,8 @@
+.menu__social-item {
+    transition: transform ease-in-out 0.3s;
+}
+
+.menu__social-item:hover {
+    transform: translate(0, -5px);
+}
+
