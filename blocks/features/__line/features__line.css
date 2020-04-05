@@ -1,0 +1,7 @@
+.features__line {
+    width: 15px;
+    height: 0;
+    border: 1px solid #DAE4FE;
+    align-self: center;
+    margin: 0;
+}

@@ -1,0 +1,7 @@
+.stats {
+    display: flex;
+    max-width: 1440px;
+    border-top: 1px solid #D8E3FE;
+    border-bottom: 1px solid #D8E3FE;
+    margin: 0 auto;
+}

@@ -1,0 +1,15 @@
+.features__image {
+    max-width: 80%;
+    position: absolute;
+    top: 120px;
+    left: 150px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 1280px) {
+    .features__image {
+        max-width: 80%;
+        height: 50%;
+        top: 130px;
+        left: 10%;
+    }
+}

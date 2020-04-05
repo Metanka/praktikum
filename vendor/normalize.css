@@ -37,6 +37,7 @@ main {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 
+<<<<<<< HEAD
 h1,
 h3,
 h4,
@@ -50,6 +51,11 @@ h6 {
 h2 {
   padding-bottom: 5px;
   margin: 0 0 0;
+=======
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+>>>>>>> Features-stats
 }
 
 /* Grouping content
@@ -86,6 +92,7 @@ pre {
 a {
   background-color: transparent;
 }
+<<<<<<< HEAD
 p,
 li,
 ul,
@@ -94,6 +101,9 @@ blockquote {
   margin-block-start: 0;
   margin-block-end: 0;
 }
+=======
+
+>>>>>>> Features-stats
 /**
  * 1. Remove the bottom border in Chrome 57-
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
@@ -216,11 +226,14 @@ button,
   -webkit-appearance: button;
 }
 
+<<<<<<< HEAD
 blockquote {
   margin-left: 0px;
   margin: 0 0 0;
 }
 
+=======
+>>>>>>> Features-stats
 /**
  * Remove the inner border and padding in Firefox.
  */

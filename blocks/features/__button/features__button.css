@@ -1,0 +1,20 @@
+.features__button {
+    max-width: 113px;
+    background-color: #FFD7D7;
+    border-radius: 5%;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    color: #D43F3F;
+    margin: 0;
+    margin-right: 16px;
+}
+
+.features__button:last-of-type {
+    background-color: #D2E1FF;
+    color: #3A79FF;
+    margin-right: 0;
+    margin-left: 16px;
+}
