@@ -14,8 +14,10 @@
     margin: 0 auto;
     background-color: #ffffff;
     border-top: 1px solid #D8E3FE;
-    background-image: url(../../images/clouds.png);
+    background-image: url("../../images/cloud.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
+
+    border: 1px solid red;
 }
