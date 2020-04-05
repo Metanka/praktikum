@@ -1,0 +1,53 @@
+.hero-image__stat {
+  width: 130px;
+  height: 125px;
+  position: absolute;
+  left: 31.3%;
+  bottom: 28%;
+}
+@media screen and (max-width: 1400px) {
+  .hero-image__stat {
+    left: 31.2%;
+  }
+}
+@media screen and (max-width: 1290px) {
+  .hero-image__stat {
+    left: 30.8%;
+    bottom: 26.8%;
+  }
+}
+@media screen and (max-width: 1218px) {
+  .hero-image__stat {
+    left: 30%;
+    bottom: 26.8%;
+  }
+}
+@media screen and (max-width: 1025px) {
+  .hero-image__stat {
+    left: 29.6%;
+    bottom: 26.7%;
+  }
+}
+@media screen and (max-width: 942px) {
+  .hero-image__stat {
+    left: 29%;
+    bottom: 26.8%;
+  }
+}
+@media screen and (max-width: 826px) {
+  .hero-image__stat {
+    left: 27%;
+    bottom: 25%;
+  }
+}
+@media screen and (max-width: 869px) {
+  .hero-image__stat {
+    left: 27.5%;
+    bottom: 25%;
+  }
+}
+@media screen and (max-width: 660px)  {
+  .hero-image__stat {
+    display: none;
+  }
+}

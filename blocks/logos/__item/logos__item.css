@@ -1,0 +1,9 @@
+.logos__item {
+  width: 116px;
+  height: 24px;
+}
+@media screen and (max-width: 690px) {
+  .logos__item {
+    padding-bottom: 15px;
+  }
+}

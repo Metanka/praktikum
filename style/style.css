@@ -2,4 +2,10 @@
 @import url('/blocks/header/header.css');
 @import url("../blocks/hero-image/hero-image.css");
 @import url("../vendor/normalize.css");
+<<<<<<< HEAD
 @import url('../vendor/fonts.css');
+=======
+@import url('../vendor/fonts.css');
+@import url('../blocks/logos/logos.css');
+@import url('../blocks/customers/customers.css');
+>>>>>>> bde535614682eb2e2f227224a88a75da102d2bbe

@@ -1,0 +1,13 @@
+.hero-image__slider {
+  position: absolute;
+  width: 48px;
+  height: 8px;
+  left: calc(50% - 24px);
+  bottom: 20%;
+}
+
+@media screen and (max-width: 440px)  {
+  .hero-image__slider {
+    display: none;
+  }
+}

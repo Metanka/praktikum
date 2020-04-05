@@ -1,0 +1,37 @@
+@import url('./_span/hero-image__title_span.css');
+.hero-image__title {
+  font-family: 'Quicksand', sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 48px;
+  line-height: 60px;
+  text-align: center;
+  z-index: 3;
+  color: #3D4F9F;
+  margin: auto;
+}
+
+
+@media screen and (max-width: 1134px) {
+  .hero-image__title {
+    font-size: 38px;
+    line-height: 50px;
+  }
+}
+@media screen and (max-width: 810px)  {
+  .hero-image__title {
+    font-size: 30px;
+    line-height: 33px;
+  }
+}
+@media screen and (max-width: 440px)  {
+  .hero-image__title {
+    font-size: 25px;
+    line-height: 27px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .hero-image__title {
+    font-size: 20px;
+  }
+}
