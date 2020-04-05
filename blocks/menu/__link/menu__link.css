@@ -1,0 +1,30 @@
+.menu__link {
+    margin-right: 42px;
+}
+
+.menu__link:last-child {
+    margin-right: 0;
+}
+
+@media screen and (max-width: 1023px) {
+    .menu__link {
+    margin-right: 20px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .menu__link {
+        margin-right: 10px;
+        }
+}
+
+@media screen and (max-width: 375px) {
+    .menu__link {
+        margin-bottom: 3px;
+        margin-right: 0;
+        }
+
+    .menu__link:hover {
+         margin-bottom: 0;
+        }
+}
