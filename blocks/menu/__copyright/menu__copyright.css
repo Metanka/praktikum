@@ -1,0 +1,27 @@
+.menu__copyright {
+    position: absolute;
+    top: 57px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    color: #AEB8D0;
+}
+
+@media screen and (max-width: 768px) {
+    .menu__copyright {
+    top: 110px;
+    left: 45px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .menu__copyright {
+        top: 177px;
+        left: 0;
+        font-size: 8px;
+        width: 105px;
+        }
+}

@@ -1,0 +1,12 @@
+.menu__logo {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background-color: #5E81FE;
+}
+
+@media screen and (max-width: 768px) {
+    .menu__logo  {
+        margin-bottom: 10px;
+    }
+}
