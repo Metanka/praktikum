@@ -1,8 +1,7 @@
 .menu__links {
-font-family: 'Quicksand', sans-serif;
 list-style: none;
 font-style: normal;
-font-weight: 500;
+font-weight: bold;
 font-size: 12px;
 line-height: 15px;
 display: flex;

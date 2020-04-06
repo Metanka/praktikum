@@ -5,8 +5,9 @@
 @import url('./__button/menu__button.css');
 @import url('./__button-text/menu__button-text.css');
 @import url('./__social-item/menu__social-item.css');
-@import url('./_place/menu_place_left-side.css');
-@import url('./_place/menu_place_right-side.css');
+@import url('./__items/menu__items.css');
+@import url('./__items/_place/menu__items_place_left-side.css');
+@import url('./__items/_place/menu__items_place_right-side.css');
 @import url('./__copyright/menu__copyright.css');
 
 .menu {
@@ -29,12 +30,5 @@
 @media screen and (max-width: 768px) {
    .menu {
     flex-direction: column;
-    }
-}
-/*
-@media screen and (max-width: 375px) {
-    .header {
-    margin: 16px auto 0;
-    max-height: 42px;
     }
 }

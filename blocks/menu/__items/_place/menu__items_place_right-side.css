@@ -1,0 +1,10 @@
+.menu__items_place_right-side {
+    justify-content: flex-end;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+    .menu__items_place_right-side {
+    flex-direction: column-reverse;
+    }
+}
