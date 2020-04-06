@@ -23,7 +23,7 @@
 @media screen and (max-width: 380px) {
   .logos {
     max-height: 300px;
-    max-width: 150px;
+    max-width: 120px;
     padding-bottom: 15px;
   }
 }
